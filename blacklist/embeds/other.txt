@@ -1,0 +1,1 @@
+{"title": "__Other__", "description": "*Reasons other than the ones above. \nActivities such as: Gross misconduct, horrendous trade etiquette, other ToS violations, etc.. \nMost of them will still have something to do with trade.*\n\n", "color": 8604544}
